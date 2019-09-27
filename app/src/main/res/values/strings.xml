@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission 5</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">Tv Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="language">Change Language Settings</string>
+    <string name="tv_descripion" translatable="false">In Depression-era London, a now-grown Jane and Michael Banks, along with Michaels three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack,she helps the family rediscover the joy and wonder missing in their lives.</string>
+    <string name="detail">Detail</string>
+    <string name="cancel_daily_reminder">Daily Reminder is Disabled</string>
+    <string name="cancel_release_reminder">Release Reminder is Disabled</string>
+    <string name="daily_reminder">Set Daily Reminder</string>
+    <string name="message_release_reminder">Hi, Submission 5 have a new movie today!</string>
+    <string name="set_daily_reminder">Daily Reminders are Activated</string>
+    <string name="set_release_reminder">Release Reminders are Activated</string>
+    <string name="katalog_film_sederhana">Simple Movie Catalog</string>
+    <string name="find_movie">Find Movie</string>
+    <string name="find_tv">Find Tv</string>
+    <string name="appwidget_text">Movie Banner</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="set_remider">Set Reminders</string>
+    <string name="release_today">Release Today</string>
+    <string name="loading_movie">Loading Movie</string>
+    <string name="loading_tv">Loading Tv</string>
+    <string name="message_daily_reminder">Hi, Submission 5 there is a surprise today!</string>
+</resources>

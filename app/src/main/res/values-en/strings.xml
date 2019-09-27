@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 5</string>
+    <string name="appwidget_text" translatable="false">Movie Banner</string>
+    <string name="cancel_daily_reminder">Daily Reminder is Disabled</string>
+    <string name="cancel_release_reminder">Release Reminder is Disabled</string>
+    <string name="daily_reminder">Set Daily Reminder</string>
+    <string name="detail">Detail</string>
+    <string name="empty_text" translatable="false">NO DATA</string>
+    <string name="find_movie">Find Movie</string>
+    <string name="find_tv">Find Tv</string>
+    <string name="katalog_film_sederhana">Simple Movie Catalog</string>
+    <string name="language">Change Language Settings</string>
+    <string name="message_daily_reminder">Hi, Submission 5 there is a surprise today!</string>
+    <string name="message_release_reminder">Hi, Submission 5 have a new movie today!</string>
+    <string name="release_today">Release Today</string>
+    <string name="set_daily_reminder">Daily Reminders are Activated</string>
+    <string name="set_release_reminder">Release Reminders are Activated</string>
+    <string name="set_remider">Set Reminders</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_movie">Movie</string>
+    <string name="loading_movie">Loading Movie</string>
+    <string name="loading_tv">Loading Tv</string>
+</resources>
